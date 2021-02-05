@@ -1,0 +1,16 @@
+B:\Desktop\CSIT\C#\CSharp Basics\bin\Debug\net5.0\CSharp Basics.exe
+B:\Desktop\CSIT\C#\CSharp Basics\bin\Debug\net5.0\CSharp Basics.deps.json
+B:\Desktop\CSIT\C#\CSharp Basics\bin\Debug\net5.0\CSharp Basics.runtimeconfig.json
+B:\Desktop\CSIT\C#\CSharp Basics\bin\Debug\net5.0\CSharp Basics.runtimeconfig.dev.json
+B:\Desktop\CSIT\C#\CSharp Basics\bin\Debug\net5.0\CSharp Basics.dll
+B:\Desktop\CSIT\C#\CSharp Basics\bin\Debug\net5.0\ref\CSharp Basics.dll
+B:\Desktop\CSIT\C#\CSharp Basics\bin\Debug\net5.0\CSharp Basics.pdb
+B:\Desktop\CSIT\C#\CSharp Basics\obj\Debug\net5.0\CSharp Basics.csprojAssemblyReference.cache
+B:\Desktop\CSIT\C#\CSharp Basics\obj\Debug\net5.0\CSharp Basics.GeneratedMSBuildEditorConfig.editorconfig
+B:\Desktop\CSIT\C#\CSharp Basics\obj\Debug\net5.0\CSharp Basics.AssemblyInfoInputs.cache
+B:\Desktop\CSIT\C#\CSharp Basics\obj\Debug\net5.0\CSharp Basics.AssemblyInfo.cs
+B:\Desktop\CSIT\C#\CSharp Basics\obj\Debug\net5.0\CSharp Basics.csproj.CoreCompileInputs.cache
+B:\Desktop\CSIT\C#\CSharp Basics\obj\Debug\net5.0\CSharp Basics.dll
+B:\Desktop\CSIT\C#\CSharp Basics\obj\Debug\net5.0\ref\CSharp Basics.dll
+B:\Desktop\CSIT\C#\CSharp Basics\obj\Debug\net5.0\CSharp Basics.pdb
+B:\Desktop\CSIT\C#\CSharp Basics\obj\Debug\net5.0\CSharp Basics.genruntimeconfig.cache
